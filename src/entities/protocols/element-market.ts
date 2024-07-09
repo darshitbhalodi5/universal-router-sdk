@@ -5,7 +5,7 @@ import { TradeConfig } from '../Command'
 import { RoutePlanner, CommandType } from '../../utils/routerCommands'
 import { BigNumber } from 'ethers'
 import { ZERO_ADDRESS } from '../../utils/constants'
-import { ZERO } from 'router87'
+import { ZERO } from 'router51'
 
 export interface Fee {
   recipient: string
